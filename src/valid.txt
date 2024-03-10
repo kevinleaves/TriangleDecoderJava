@@ -1,0 +1,6 @@
+6 sophia
+3 python
+1 hi
+2 course
+5 java
+4 grader
